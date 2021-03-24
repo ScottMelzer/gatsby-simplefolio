@@ -18,7 +18,8 @@ export const heroData = {
 // ABOUT DATA
 export const aboutData = {
   img: 'profile.jpg',
-  paragraphOne: '',
+  paragraphOne:
+    'From HTML to CSS, JavaScript and React, I have the skills you need to bring your project to life.',
   paragraphTwo: '',
   paragraphThree: '',
   resume: '', // if no resume, the button will not show up
@@ -26,15 +27,15 @@ export const aboutData = {
 
 // PROJECTS DATA
 export const projectsData = [
-  // {
-  //   id: nanoid(),
-  //   img: 'project.jpg',
-  //   title: '',
-  //   info: '',
-  //   info2: '',
-  //   url: '',
-  //   repo: 'https://github.com/cobidev/react-simplefolio', // if no repo, the button will not show up
-  // },
+  {
+    id: nanoid(),
+    img: 'robofriendsLogo.png',
+    title: 'ROBOFRIENDS',
+    info: 'ZTM React Project',
+    info2: 'Searchable page of robot friends.',
+    url: 'https://scottmelzer.github.io/robofriends/',
+    repo: 'https://github.com/ScottMelzer/robofriends', // if no repo, the button will not show up
+  },
   // {
   //   id: nanoid(),
   //   img: 'project.jpg',
