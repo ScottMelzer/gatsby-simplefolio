@@ -2,7 +2,7 @@ import { nanoid } from 'nanoid';
 
 // HEAD DATA
 export const headData = {
-  title: 'Scott Melzer | Full-Stack Developer', // e.g: 'Name | Developer'
+  title: 'Scott Melzer | Front-End Developer', // e.g: 'Name | Developer'
   lang: 'en', // e.g: en, es, fr, jp
   description: 'My Portfolio', // e.g: Welcome to my website
 };
@@ -11,7 +11,7 @@ export const headData = {
 export const heroData = {
   title: 'Hello, my name is',
   name: 'Scott Melzer',
-  subtitle: 'The Full-Stack Developer you Need',
+  subtitle: 'The Front-End Developer you Need',
   cta: 'Learn More',
 };
 
@@ -20,8 +20,8 @@ export const aboutData = {
   img: 'profile.jpg',
   paragraphOne:
     'From HTML to CSS, JavaScript and React, I have the skills you need to bring your project to life.',
-  paragraphTwo: '',
-  paragraphThree: '',
+  // paragraphTwo: '',
+  // paragraphThree: '',
   resume: '', // if no resume, the button will not show up
 };
 
