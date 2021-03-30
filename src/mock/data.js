@@ -20,8 +20,9 @@ export const aboutData = {
   img: 'profile.jpg',
   paragraphOne:
     'From HTML to CSS, JavaScript and React, I have the skills you need to bring your project to life.',
-  // paragraphTwo: '',
-  // paragraphThree: '',
+  paragraphTwo:
+    'Experience working in fields from Quality Assurance to Game Development to Online Advertising give me a unique view of problems and ways to solve them.',
+  paragraphThree: 'If you are looking to beef up your roster I am ready to take the field.',
   resume: '', // if no resume, the button will not show up
 };
 
