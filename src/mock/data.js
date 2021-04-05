@@ -21,8 +21,9 @@ export const aboutData = {
   paragraphOne:
     'From HTML to CSS, JavaScript and React, I have the skills you need to bring your project to life.',
   paragraphTwo:
-    'Experience working in fields from Quality Assurance to Game Development to Online Advertising give me a unique view of problems and ways to solve them.',
-  paragraphThree: 'If you are looking to beef up your roster I am ready to take the field.',
+    'Experience working in Ad Tech on the network side at companies like Brightroll and the publisher side like KBB. I have worked in Quality Assurance for SquareEnix, 2K, TellTale Games, Toys for Bob, Atlus, and more. I have a wide range of experiences that let me see problems from multiple angles and come up with novel solutions.',
+  paragraphThree:
+    'If you are looking for someone to hit the ground running and add real value to your team then send me a message and we can talk.',
   resume: '', // if no resume, the button will not show up
 };
 
