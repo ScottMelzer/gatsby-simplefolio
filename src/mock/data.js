@@ -38,15 +38,16 @@ export const projectsData = [
     url: 'https://scottmelzer.github.io/robofriends/',
     repo: 'https://github.com/ScottMelzer/robofriends', // if no repo, the button will not show up
   },
-  // {
-  //   id: nanoid(),
-  //   img: 'project.jpg',
-  //   title: '',
-  //   info: '',
-  //   info2: '',
-  //   url: '',
-  //   repo: 'https://github.com/cobidev/react-simplefolio', // if no repo, the button will not show up
-  // },
+  {
+    id: nanoid(),
+    img: 'smartbrainlogo.png',
+    title: 'Smart Brain',
+    info: 'ZTM Final Project',
+    info2:
+      'Facial recognition React app using Clarifai API. Node server and Postgres database hosted on Heroku. Can create users with the passwords getting hashed using bcrypt and everything saving to the database.',
+    url: 'https://scottmelzer.github.io/smartbrain/',
+    repo: 'https://github.com/ScottMelzer/smartbrain', // if no repo, the button will not show up
+  },
   // {
   //   id: nanoid(),
   //   img: 'project.jpg',
