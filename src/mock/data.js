@@ -31,22 +31,22 @@ export const aboutData = {
 export const projectsData = [
   {
     id: nanoid(),
-    img: 'robofriendsLogo.png',
-    title: 'ROBOFRIENDS',
-    info: 'ZTM React Project',
-    info2: 'Searchable page of robot friends.',
-    url: 'https://scottmelzer.github.io/robofriends/',
-    repo: 'https://github.com/ScottMelzer/robofriends', // if no repo, the button will not show up
-  },
-  {
-    id: nanoid(),
     img: 'smartbrainlogo.png',
     title: 'Smart Brain',
     info: 'ZTM Final Project',
     info2:
-      'Facial recognition React app using Clarifai API. Node server and Postgres database hosted on Heroku. Can create users with the passwords getting hashed using bcrypt and everything saving to the database.',
+      'Facial recognition React app using Clarifai API. Node server and Postgres database hosted on Heroku. Can create users with the passwords getting hashed using bcrypt and everything saved to the database.',
     url: 'https://scottmelzer.github.io/smartbrain/',
     repo: 'https://github.com/ScottMelzer/smartbrain', // if no repo, the button will not show up
+  },
+  {
+    id: nanoid(),
+    img: 'robofriendsLogo.png',
+    title: 'ROBOFRIENDS',
+    info: 'ZTM React Project',
+    info2: 'Searchable page of robot friends using React Hooks.',
+    url: 'https://scottmelzer.github.io/robofriends/',
+    repo: 'https://github.com/ScottMelzer/robofriends', // if no repo, the button will not show up
   },
   // {
   //   id: nanoid(),
