@@ -44,7 +44,7 @@ export const projectsData = [
 export const contactData = {
   cta: 'Looking for your next hire?',
   btn: "Let's Talk",
-  email: 'scottmelzer@pm.me,
+  email: 'scottmelzer@pm.me',
 };
 
 // FOOTER DATA
