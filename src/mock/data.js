@@ -29,6 +29,15 @@ export const aboutData = {
 
 // PROJECTS DATA
 export const projectsData = [
+  {
+    id: nanoid(),
+    img: 'ecommercereactlogo.png',
+    title: 'E-Commerce Site',
+    info: 'Functional eCommerce store built with React.',
+    info2: 'User verification and authorization along with item database done with Firebase.',
+    url: '',
+    repo: 'https://github.com/ScottMelzer/ecommerce-react', // if no repo, the button will not show up
+  },
   // {
   //   id: nanoid(),
   //   img: 'project.jpg',
@@ -44,7 +53,7 @@ export const projectsData = [
 export const contactData = {
   cta: 'Looking for your next hire?',
   btn: "Let's Talk",
-  email: 'scottmelzer@pm.me',
+  email: 'scottmelzer@proton.me',
 };
 
 // FOOTER DATA
