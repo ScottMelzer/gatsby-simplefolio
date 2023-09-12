@@ -35,7 +35,7 @@ export const projectsData = [
     title: 'E-Commerce Site',
     info: 'Functional eCommerce store built with React.',
     info2: 'User verification and authorization along with item database done with Firebase.',
-    url: '',
+    url: 'https://strong-moonbeam-4b9623.netlify.app',
     repo: 'https://github.com/ScottMelzer/ecommerce-react', // if no repo, the button will not show up
   },
   // {
